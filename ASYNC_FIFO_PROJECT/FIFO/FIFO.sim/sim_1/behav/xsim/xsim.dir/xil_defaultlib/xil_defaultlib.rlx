@@ -1,0 +1,15 @@
+0.7
+2020.2
+Sep  5 2024
+15:23:16
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sim_1/new/async_fifo_tb.sv,1780136098,systemVerilog,,,,async_fifo_tb,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sim_1/new/ref_fifo.sv,1780133899,systemVerilog,,D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sim_1/new/scoreboard.sv,,ref_fifo,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sim_1/new/scoreboard.sv,1780133899,systemVerilog,,D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sim_1/new/async_fifo_tb.sv,,scoreboard,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/async_fifo_top.v,1780135256,verilog,,D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/fifo_empty.v,,async_fifo_top,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/fifo_empty.v,1780134668,verilog,,D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/fifo_full.v,,fifo_empty,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/fifo_full.v,1780131447,verilog,,D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/fifo_mem.v,,fifo_full,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/fifo_mem.v,1780135256,verilog,,D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/reset_sync.v,,fifo_mem,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/reset_sync.v,1780131447,verilog,,D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/sync_rd2wr.v,,reset_sync,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/sync_rd2wr.v,1780131447,verilog,,D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/sync_wr2rd.v,,sync_rd2wr,,uvm,,,,,,
+D:/ASYNC_FIFO_PROJECT/FIFO/FIFO.srcs/sources_1/new/sync_wr2rd.v,1780131447,verilog,,,,sync_wr2rd,,uvm,,,,,,

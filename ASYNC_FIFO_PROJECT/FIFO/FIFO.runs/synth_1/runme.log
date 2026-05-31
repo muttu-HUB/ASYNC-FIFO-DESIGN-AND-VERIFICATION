@@ -1,0 +1,4 @@
+
+*** Running vivado
+    with args -log async_fifo_top.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source async_fifo_top.tcl
+
